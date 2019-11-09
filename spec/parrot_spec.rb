@@ -4,8 +4,6 @@ def parrot(phrase = "Squawk!")
 puts "phrase"  
   end
 
-parrot(phrase)
-
 
 describe '#parrot' do
   it 'should output "Squawk!" to the terminal when called without any arguments' do
