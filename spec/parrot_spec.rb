@@ -4,7 +4,7 @@ def parrot(phrase = "Pretty bird!, Squawk!")
   
   puts phrase
 end
-parrot
+
 
 
 describe '#parrot' do
